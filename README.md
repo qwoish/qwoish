@@ -7,23 +7,17 @@
   <a href="https://github.com/qwoish" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<br>
+<img align="right" width="260" src="https://raw.githubusercontent.com/qwoish/qwoish/main/Scene.gif" />
 
-<p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/qwoish/qwoish/main/Scene.gif" />
-</p>
+<h3>About Me</h3>
 
-<br>
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
+<p>
   <em>I'm Qwoi, an ex-vulnerability researcher. I started out finding offsets and vulnerabilities in games, work that fed into cheat development, then moved into a real job in vulnerability research. I fell out of love with it and stepped away. Now I use AI and my code experience to build things.</em>
 </p>
 
-<p align="center"><b>Currently building:</b> a video editor in Rust and Qt.</p>
+<p><b>Currently building:</b> a video editor in Rust and Qt.</p>
 
-<br>
+<br clear="right">
 
 <p align="center">
   <kbd>
