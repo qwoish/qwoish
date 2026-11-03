@@ -12,7 +12,7 @@
 <h3>About Me</h3>
 
 <p>
-  <em>I'm Qwoi, an ex-vulnerability researcher. I started out finding offsets and vulnerabilities in games, work that fed into cheat development, then moved into a real job in vulnerability research. I fell out of love with it and stepped away. Now I im giving software a try, using AI and my code experience to build things.</em>
+  <em>I'm Qwoi, an ex-vulnerability researcher. I started out finding offsets and vulnerabilities in games, work that fed into cheat development, then moved into a real job in vulnerability research. I fell out of love with it and stepped away. im now using AI and my code experience to build things.</em>
 </p>
 
 <p><b>Currently building:</b> a video editor in Rust and Qt.</p>
